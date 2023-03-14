@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/css/main.c1122d53.css",
+    "main.js": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/js/main.a606bdcb.js",
+    "static/media/team-06.png": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/team-06.87130949b09904c2f89f.png",
+    "static/media/team-05.png": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/team-05.25e57e2269e7d0f6f76c.png",
+    "static/media/team-02.jpg": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/team-02.29930c563632598eb9bd.jpg",
+    "static/media/6.jpg": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/6.e6768899aa473a8109fd.jpg",
+    "static/media/team-01.jpg": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/team-01.ba4dc97f660aeb3996cc.jpg",
+    "static/media/1.jpg": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/1.7e3e42f0d872f6a74e5d.jpg",
+    "static/media/team-03.jpg": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/team-03.e7894627947a9ba287dc.jpg",
+    "static/media/3.jpg": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/3.266462e8c703a6808dac.jpg",
+    "static/media/5.jpg": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/5.22c05dc1779253449d47.jpg",
+    "static/media/team-04.jpg": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/team-04.b473ab5f08b9360c889c.jpg",
+    "static/media/2.jpg": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/2.4613d9a5ca490588cf8d.jpg",
+    "static/media/4.jpg": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/4.cbc13852f58428288f13.jpg",
+    "index.html": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/index.html",
+    "main.c1122d53.css.map": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/css/main.c1122d53.css.map",
+    "main.a606bdcb.js.map": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/js/main.a606bdcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1122d53.css",
+    "static/js/main.a606bdcb.js"
+  ]
+}
