@@ -1,0 +1,18 @@
+.aside{
+   /* width: 200px;*/
+    height: 563px;
+    background-color: white;
+}
+.cat{
+    padding-top: 40px;
+    padding-left: 5px;
+    color: #0d6efd;
+    font-size: 20px;
+    font-weight: bold;
+}
+@media (max-width: 767px) {
+ .aside{
+    width: 188px;
+    height: 1807px;
+ } 
+}

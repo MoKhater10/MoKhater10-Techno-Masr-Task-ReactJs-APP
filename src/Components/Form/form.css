@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+
+
+.login {
+  margin: 80px auto;
+  padding: 40px 50px;
+  max-width: 380px;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 1px 1px 1px #666;
+}
+  .login input,button {
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    margin: 10px 0;
+    padding: 14px 12px;
+    font-size: 16px;
+    border-radius: 2px; 
+    font-family: Raleway, sans-serif;
+  }
+
+.login input[type=text],
+.login input[type=password] {
+  border: 1px solid #c0c0c0;
+  transition: .2s;
+}
+
+.login input[type=text]:hover {
+  border-color: #F44336;
+  outline: none;
+  transition: all .2s ease-in-out;
+} 
+
+button {
+  color: white;
+  font-weight: bold;  
+  margin: 20px 0px;
+  cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+
+
+  .login h2 {
+    margin: 20px 0 0; 
+    color: #EF5350;
+    font-size: 28px;
+  }
+
+.login p {
+  margin-bottom: 40px;
+}
+
+
+  .login h2,
+  .login p
+   {
+    text-align: center;    
+  }
+
+@media (max-width: 767px) {
+  .login{
+    width: 91%;
+  }
+}
+
+.submit{
+    color: white;
+    font-weight: bold;
+    border-color: transparent;
+    cursor: pointer;
+    font-size: 20px;
+    background-color: #0d6efd;
+}
