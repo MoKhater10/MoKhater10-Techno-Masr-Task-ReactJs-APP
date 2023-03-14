@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/css/main.c1122d53.css",
-    "main.js": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/js/main.9fbb5715.js",
+    "main.js": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/js/main.a606bdcb.js",
     "static/media/team-06.png": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/team-06.87130949b09904c2f89f.png",
     "static/media/team-05.png": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/team-05.25e57e2269e7d0f6f76c.png",
     "static/media/team-02.jpg": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/team-02.29930c563632598eb9bd.jpg",
@@ -16,10 +16,10 @@
     "static/media/4.jpg": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/media/4.cbc13852f58428288f13.jpg",
     "index.html": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/index.html",
     "main.c1122d53.css.map": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/css/main.c1122d53.css.map",
-    "main.9fbb5715.js.map": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/js/main.9fbb5715.js.map"
+    "main.a606bdcb.js.map": "/MoKhater10-Techno-Masr-Task-ReactJs-APP/static/js/main.a606bdcb.js.map"
   },
   "entrypoints": [
     "static/css/main.c1122d53.css",
-    "static/js/main.9fbb5715.js"
+    "static/js/main.a606bdcb.js"
   ]
 }
