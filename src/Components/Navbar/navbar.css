@@ -24,6 +24,10 @@ svg{
     width: 120%;
   }
 }
+#cart{
+  color: #0d6efd;
+  cursor: pointer;
+}
 .header .container {
   display: flex;
   justify-content: space-between;
